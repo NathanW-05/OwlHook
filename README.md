@@ -2,7 +2,7 @@
 
 This project is to build an injectable dll on windows 10 64bit (only current supported architecture). It has no real features as of now, only includes a ghost client base, menu (with incomplete widgets, and color customization), config system, as well as button to unload from memory. Use at your own risk, this isn't allowed on most minecraft servers (obviously). **This is incomplete, and probably not very good c++. But, runs fast, efficient, and stable in minecraft with no memory leaks.**
 
-This is lisenced under GPL v3.0, read before using for anything non-personal. I will sue.
+This is lisenced under the PogDog lisence. Read before use.
 
 # Why?
 
