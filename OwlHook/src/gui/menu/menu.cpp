@@ -98,11 +98,6 @@ static std::vector<category> categories =
 
 std::once_flag flag_load;
 
-void prnt()
-{
-	std::cout << "from prnt fnc" << std::endl;
-}
-
 void set_unload()
 {
 	owlhook::start_unload = true;
